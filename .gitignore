@@ -1,0 +1,20 @@
+# Pastas de Ambiente Virtual
+venv/
+env/
+.env
+
+# Pastas de cache do Python e pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Arquivos e Pastas do Robô (NÃO SUBIR DADOS SENSÍVEIS)
+/logs/
+*.log
+/faturas/
+/downloads/
+*.pdf
+
+# Pastas geradas por IDEs (VSCode, PyCharm)
+.vscode/
+.idea/

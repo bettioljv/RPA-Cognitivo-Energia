@@ -1,0 +1,14 @@
+{
+    "enel_hibrido": {
+        "nome": "ENEL Ceara",
+        "scripts": [
+            "../extracao_hibrida/teste_10_unidades_humanizado.py"
+        ],
+        "warmup_url": "https://www.enel.com.br/pt-ceara/login.html",
+        "campos": {
+            "email": "Email",
+            "senha": "Senha",
+            "unidade_consumidora": "Unidade Consumidora"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+selenium>=4.15.0
+seleniumbase>=4.24.0
+curl_cffi>=0.5.9
+undetected-chromedriver>=3.5.4
+selenium-stealth>=1.0.6
+tls-client>=1.0.1
+requests>=2.31.0
